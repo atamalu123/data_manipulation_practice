@@ -1,0 +1,73 @@
+
+# [1527. Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/)
+
+- [Python Solution](#python)
+- [R Solution](#r)
+
+# Problem
+
+    Table: Patients
+
+    +--------------+---------+
+    | Column Name  | Type    |
+    +--------------+---------+
+    | patient_id   | int     |
+    | patient_name | varchar |
+    | conditions   | varchar |
+    +--------------+---------+
+    patient_id is the primary key (column with unique values) for this table.
+    'conditions' contains 0 or more code separated by spaces. 
+
+    This table contains information of the patients in the hospital.
+
+Write a solution to find the patient_id, patient_name, and conditions of
+the patients who have Type I Diabetes. Type I Diabetes always starts
+with `DIAB1` prefix.
+
+Return the result table in any order.
+
+## Data
+
+``` python
+import pandas as pd
+
+data = [[1, 'Daniel', 'YFEV COUGH'], [2, 'Alice', ''], [3, 'Bob', 'DIAB100 MYOP'], [4, 'George', 'ACNE DIAB100'], [5, 'Alain', 'DIAB201']]
+patients = pd.DataFrame(data, columns=['patient_id', 'patient_name', 'conditions']).astype({'patient_id':'int', 'patient_name':'object', 'conditions':'object'})
+
+r.patients = patients
+```
+
+## Python
+
+``` python
+def find_patients(patients: pd.DataFrame) -> pd.DataFrame:
+    
+    return patients[patients['conditions'].str.contains(r"(^|\s)DIAB1", regex=True)][['patient_id', 'patient_name', 'conditions']]
+  
+print(find_patients(patients))
+```
+
+    ## <string>:3: UserWarning: This pattern is interpreted as a regular expression, and has match groups. To actually get the groups, use str.extract.
+    ##    patient_id patient_name    conditions
+    ## 2           3          Bob  DIAB100 MYOP
+    ## 3           4       George  ACNE DIAB100
+
+## R
+
+``` r
+library(dplyr)
+
+find_patients <- function(patients){
+  
+  res <- patients[grepl("(^|\\s)DIAB1", patients$conditions, perl=TRUE), ]
+  
+  return(res)
+
+}
+
+print(find_patients(patients))
+```
+
+    ##   patient_id patient_name   conditions
+    ## 3          3          Bob DIAB100 MYOP
+    ## 4          4       George ACNE DIAB100
