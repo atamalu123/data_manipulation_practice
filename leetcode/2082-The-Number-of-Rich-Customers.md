@@ -1,0 +1,73 @@
+
+# [2082. The Number of Rich Customers](https://leetcode.com/problems/the-number-of-rich-customers/)
+
+- [Python Solution](#python)
+- [R Solution](#r)
+
+# Problem
+
+    Table: Store
+
+    +-------------+------+
+    | Column Name | Type |
+    +-------------+------+
+    | bill_id     | int  |
+    | customer_id | int  |
+    | amount      | int  |
+    +-------------+------+
+    bill_id is the primary key (column with unique values) for this table.
+
+    Each row contains information about the amount of one bill and the customer associated with it.
+
+Write a solution to report the number of customers who had at least one
+bill with an amount strictly greater than `500`.
+
+## Data
+
+``` python
+import pandas as pd
+
+data = [[6, 1, 549], [8, 1, 834], [4, 2, 394], [11, 3, 657], [13, 3, 257]]
+store = pd.DataFrame(data, columns=['bill_id', 'customer_id', 'amount']).astype({'bill_id':'int', 'customer_id':'int', 'amount':'int'})
+
+r.store = store
+```
+
+## Python
+
+``` python
+def count_rich_customers(store: pd.DataFrame) -> pd.DataFrame:
+
+    rich_customers = store[store['amount'] > 500]
+    rich_count = rich_customers['customer_id'].nunique()
+
+    return pd.DataFrame({'rich_count': [rich_count]})
+  
+print(count_rich_customers(store))
+```
+
+    ##    rich_count
+    ## 0           2
+
+## R
+
+``` r
+library(dplyr)
+
+count_rich_customers <- function(store){
+  
+  rich_customers <- store %>%
+    filter(amount > 500)
+  rich_count <- length(unique(rich_customers$customer_id))
+  
+  res <- data.frame('rich_count' = rich_count)
+  
+  return(res)
+
+}
+
+print(count_rich_customers(store))
+```
+
+    ##   rich_count
+    ## 1          2
