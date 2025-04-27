@@ -1,0 +1,77 @@
+---
+output: github_document
+---
+
+```{r, echo=FALSE}
+knitr::opts_chunk$set(message = FALSE)
+```
+
+# [1667. Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)
+
+  * [Python Solution](#python)
+  * [R Solution](#r)
+  
+# Problem
+
+```
+Table: Users
+
++----------------+---------+
+| Column Name    | Type    |
++----------------+---------+
+| user_id        | int     |
+| name           | varchar |
++----------------+---------+
+user_id is the primary key (column with unique values) for this table.
+
+This table contains the ID and the name of the user. The name consists of only lowercase and uppercase characters.
+``` 
+
+Write a solution to fix the names so that only the first character is uppercase and the rest are lowercase.
+
+Return the result table ordered by `user_id`.
+
+## Data
+
+```{python}
+import pandas as pd
+
+data = [[1, 'aLice'], [2, 'bOB']]
+users = pd.DataFrame(data, columns=['user_id', 'name']).astype({'user_id':'int', 'name':'object'})
+
+r.users = users
+```
+
+## Python
+
+```{python}
+def fix_names(users: pd.DataFrame) -> pd.DataFrame:
+    
+    users['name'] = users['name'].apply(lambda x: x.capitalize())
+    return users.sort_values('user_id')
+  
+print(fix_names(users))
+```
+
+## R
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(dplyr)
+
+fix_names <- function(users){
+  
+  users <- users %>%
+    mutate(name = paste0(toupper(substring(name, 1, 1)), 
+                         tolower(substring(name, 2, nchar(name))))) %>%
+    arrange(user_id)
+  
+  return(users)
+  
+}
+
+print(fix_names(users))
+```

@@ -1,0 +1,77 @@
+---
+output: github_document
+---
+
+```{r, echo=FALSE}
+knitr::opts_chunk$set(message = FALSE)
+```
+
+# [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/)
+
+  * [Python Solution](#python)
+  * [R Solution](#r)
+  
+# Problem
+
+```
+Table: Tweets
+
++----------------+---------+
+| Column Name    | Type    |
++----------------+---------+
+| tweet_id       | int     |
+| content        | varchar |
++----------------+---------+
+tweet_id is the primary key (column with unique values) for this table.
+content consists of alphanumeric characters, '!', or ' ' and no other special characters.
+
+This table contains all the tweets in a social media app.
+``` 
+
+Write a solution to find the IDs of the invalid tweets. The tweet is invalid if the number of characters used in the content of the tweet is strictly greater than `15`.
+
+Return the result table in any order.
+
+## Data
+
+```{python}
+import pandas as pd
+
+data = [[1, 'Let us Code'], [2, 'More than fifteen chars are here!']]
+tweets = pd.DataFrame(data, columns=['tweet_id', 'content']).astype({'tweet_id':'Int64', 'content':'object'})
+
+r.tweets = tweets
+```
+
+## Python
+
+```{python}
+def invalid_tweets(tweets: pd.DataFrame) -> pd.DataFrame:
+    
+    df = tweets[tweets['content'].apply(len) > 15][['tweet_id']]
+
+    return df
+  
+print(invalid_tweets(tweets))
+```
+
+## R
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+library(dplyr)
+
+invalid_tweets <- function(tweets){
+  
+  res <- tweets %>%
+    filter(nchar(content) > 15) %>%
+    select(tweet_id)
+  
+  return(res)
+}
+
+print(invalid_tweets(tweets))
+```
