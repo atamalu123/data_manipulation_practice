@@ -7,6 +7,8 @@
 
 # Problem
 
+Problem can be found [here](https://leetcode.com/problems/customers-who-never-order/)
+
     Table: Customers
 
     +-------------+---------+
