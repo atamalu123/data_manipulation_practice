@@ -3,6 +3,7 @@
 
 - [Python Solution](#python)
 - [R Solution](#r)
+- [SQL Solution](https://leetcode.com/problems/customers-who-never-order/solutions/7082081/two-versions-in-mysql-by-atamalu123-plha/)
 
 # Problem
 
