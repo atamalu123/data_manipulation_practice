@@ -3,6 +3,7 @@
 
 - [Python Solution](#python)
 - [R Solution](#r)
+- [SQL Solution](https://leetcode.com/problems/article-views-i/solutions/7115314/simple-by-atamalu123-7wkl/)
 
 # Problem
 
