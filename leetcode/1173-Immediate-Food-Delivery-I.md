@@ -3,6 +3,7 @@
 
 - [Python Solution](#python)
 - [R Solution](#r)
+- [SQL Solution](https://leetcode.com/problems/immediate-food-delivery-i/solutions/7115389/postgresql-using-case-when-by-atamalu123-x6z8/)
 
 # Problem
 
