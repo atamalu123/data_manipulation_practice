@@ -3,6 +3,7 @@
 
 - [Python Solution](#python)
 - [R Solution](#r)
+- [SQL Solution](https://leetcode.com/problems/patients-with-a-condition/solutions/7115450/with-and-without-regex-by-atamalu123-qy4c/)
 
 # Problem
 
