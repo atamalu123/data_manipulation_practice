@@ -3,6 +3,7 @@
 
 - [Python Solution](#python)
 - [R Solution](#r)
+- [SQL Solution](https://leetcode.com/problems/find-users-with-valid-e-mails/solutions/7115412/regex-postgresql-solution-by-atamalu123-yv7m/)
 
 # Problem
 
