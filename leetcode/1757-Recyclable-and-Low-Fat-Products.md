@@ -3,7 +3,7 @@
 
 - [Python Solution](#python)
 - [R Solution](#r)
-- [SQL Solution(https://leetcode.com/problems/recyclable-and-low-fat-products/solutions/7115605/simple-filtering-by-atamalu123-2sec/)
+- [SQL Solution](https://leetcode.com/problems/recyclable-and-low-fat-products/solutions/7115605/simple-filtering-by-atamalu123-2sec/)
 
 # Problem
 
