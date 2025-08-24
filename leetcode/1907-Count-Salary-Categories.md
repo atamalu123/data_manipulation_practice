@@ -3,6 +3,7 @@
 
 - [Python Solution](#python)
 - [R Solution](#r)
+- [SQL Solution](https://leetcode.com/problems/count-salary-categories/solutions/7115764/stacking-using-union-by-atamalu123-5b9y/)
 
 # Problem
 
