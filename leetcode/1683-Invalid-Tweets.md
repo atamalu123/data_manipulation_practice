@@ -3,7 +3,7 @@
 
 - [Python Solution](#python)
 - [R Solution](#r)
-- [SQL Solution(https://leetcode.com/problems/invalid-tweets/solutions/7115579/simple-filtering-by-atamalu123-jx0f/)
+- [SQL Solution](https://leetcode.com/problems/invalid-tweets/solutions/7115579/simple-filtering-by-atamalu123-jx0f/)
 
 # Problem
 
