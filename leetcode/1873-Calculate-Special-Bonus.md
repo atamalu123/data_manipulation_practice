@@ -3,6 +3,7 @@
 
 - [Python Solution](#python)
 - [R Solution](#r)
+- [SQL Solution](https://leetcode.com/problems/calculate-special-bonus/solutions/7115698/2-versions-slower-and-faster-by-atamalu1-l545/)
 
 # Problem
 
