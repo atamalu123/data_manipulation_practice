@@ -3,6 +3,7 @@
 
 - [Python Solution](#python)
 - [R Solution](#r)
+- [SQL Solution](https://leetcode.com/problems/fix-names-in-a-table/solutions/7115556/upper-lower-substr-by-atamalu123-wam2/)
 
 # Problem
 
