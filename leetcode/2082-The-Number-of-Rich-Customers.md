@@ -3,6 +3,7 @@
 
 - [Python Solution](#python)
 - [R Solution](#r)
+- [SQL Solution](https://leetcode.com/problems/the-number-of-rich-customers/solutions/7166969/count-distinct-by-atamalu123-baoa/)
 
 # Problem
 
