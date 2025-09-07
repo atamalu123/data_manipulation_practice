@@ -1,6 +1,6 @@
 # Data Manipulation
 
-Practicing transforming data
+Practicing transforming data.
 
 # Leetcode Problems
 
