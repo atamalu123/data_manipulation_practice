@@ -3,6 +3,7 @@
 
 - [Python Solution](#python)
 - [R Solution](#r)
+- [SQL Solution](https://leetcode.com/problems/big-countries/solutions/7167020/filtering-by-atamalu123-zzss/)
 
 # Problem
 
