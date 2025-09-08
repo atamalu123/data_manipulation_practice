@@ -5,7 +5,10 @@ Practicing transforming data in SQL and Python.
 # Leetcode Problems
 
 | Number  | Problem | Difficulty | Categories |
-| ------ | ------------- | ------------- | ------------- |
+| ------ | ------------- | ------------- | ------------- | 
+| 175 | [Combine Two Tables](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/175-Combine-Two-Tables.md) | Easy | JOIN |
+| 176 | [Second Highest Salary](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/176-Second-Highest-Salary.md) | Medium | CTE, Subquery, DENSE_RANK |
+| 178 | [Rank Scores](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/178-Rank-Scores.md) | Medium | DENSE_RANK |
 | 183 | [Customers Who Never Order](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/183-Customers-Who-Never-Order.md) | Easy | JOIN, SUBQUERY |
 | 595 | [Big Countries](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/595-Big-Countries.md)  | Easy | WHERE |
 | 1148 | [Article Views I](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1148-Article-Views-I.md) | Easy | SELECT DISTINCT, ORDER BY |
