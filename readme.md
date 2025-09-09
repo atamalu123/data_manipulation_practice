@@ -14,6 +14,7 @@ Practicing transforming data in SQL and Python.
 | 183 | [Customers Who Never Order](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/183-Customers-Who-Never-Order.md) | Easy | JOIN, Subquery |
 | 184 | [Department Highest Salary](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/184-Department-Highest-Salary.md) | Medium | CTE, DENSE_RANK, Window Function |
 | 185 | [Department Top Three Salaries](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/185-Department-Top-Three-Salaries.md) | Hard | CTE, DENSE_RANK, Window Function |
+| 511 | [Game Play Analysis I](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/511-Game-Play-Analysis-I.md) | Easy | CTE, ROW_NUMBER, Window Function |
 | 577 | [Employee Bonus](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/577-Employee-Bonus.md) | Easy | JOIN |
 | 584 | [Find Customer Referee](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/584-Find-Customer-Referee.md) | Easy | WHERE, IS NULL |
 | 585 | [Investments in 2016](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/585-Investments-In-2016.md) | Medium | Window Function, Subquery |
