@@ -13,6 +13,7 @@ Practicing transforming data in SQL and Python.
 | 181 | [Employees Earning More Than Their Managers](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/181-Employees-Earning-More-Than-Their-Managers.md) | Easy | JOIN |
 | 183 | [Customers Who Never Order](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/183-Customers-Who-Never-Order.md) | Easy | JOIN, Subquery |
 | 184 | [Department Highest Salary](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/184-Department-Highest-Salary.md) | Medium | CTE, DENSE_RANK |
+| 185 | [Department Top Three Salaries](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/185-Department-Top-Three-Salaries.md) | Hard | CTE, DENSE_RANK |
 | 595 | [Big Countries](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/595-Big-Countries.md)  | Easy | WHERE |
 | 1148 | [Article Views I](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1148-Article-Views-I.md) | Easy | SELECT DISTINCT, ORDER BY |
 | 1173 | [Immediate Food Delivery I](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1173-Immediate-Food-Delivery-I.md) | Easy | CASE WHEN, SUM |
