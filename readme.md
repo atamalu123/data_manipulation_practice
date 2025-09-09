@@ -26,6 +26,7 @@ Practicing transforming data in SQL and Python. 31 questions.
 | 1075 | [Project Employees I](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1075-Project-Employees-I.md) | Easy | JOIN, GROUP BY |
 | 1107 | [New Users Daily Count](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1107-New-Users-Daily-Count.md) | Medium | CTE, ROW_NUMBER, Window Function |
 | 1148 | [Article Views I](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1148-Article-Views-I.md) | Easy | SELECT DISTINCT, ORDER BY |
+| 1158 | [Market Analysis I](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1158-Market-Analysis-I.md) | Medium | JOIN, EXTRACT |
 | 1173 | [Immediate Food Delivery I](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1173-Immediate-Food-Delivery-I.md) | Easy | CASE WHEN, SUM |
 | 1517 | [Find Users With Valid Emails](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1517-Find-Users-With-Valid-Emails.md) | Easy | REGEX |
 | 1527 | [Patients With a Condition](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1527-Patients-With-a-Condition.md) | Easy | REGEX, LIKE |
