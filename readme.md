@@ -21,7 +21,7 @@ Practicing transforming data in SQL and Python.
 | 586 | [Customer Placing the Largest Number of Orders](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/586-Customer-Placing-The-Largest-Number-Of-Orders.md) | Easy | DENSE_RANK, Window Function |
 | 595 | [Big Countries](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/595-Big-Countries.md)  | Easy | WHERE |
 | 626 | [Exchange Seats](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/626-Exchange-Seats.md) | Medium | LAG, LEAD, Window Function |
-| 1045 | [Customers Who Bought All Products](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1045-Customers-Who-Bought-All-Products.md) | Easy | CTE, Subquery, HAVING |
+| 1045 | [Customers Who Bought All Products](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1045-Customers-Who-Bought-All-Products.md) | Medium | CTE, Subquery, HAVING |
 | 1148 | [Article Views I](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1148-Article-Views-I.md) | Easy | SELECT DISTINCT, ORDER BY |
 | 1173 | [Immediate Food Delivery I](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1173-Immediate-Food-Delivery-I.md) | Easy | CASE WHEN, SUM |
 | 1517 | [Find Users With Valid Emails](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1517-Find-Users-With-Valid-Emails.md) | Easy | REGEX |
