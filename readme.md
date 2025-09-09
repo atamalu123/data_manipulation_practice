@@ -7,16 +7,17 @@ Practicing transforming data in SQL and Python.
 | Number  | Problem | Difficulty | Categories |
 | ------ | ------------- | ------------- | ------------- | 
 | 175 | [Combine Two Tables](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/175-Combine-Two-Tables.md) | Easy | JOIN |
-| 176 | [Second Highest Salary](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/176-Second-Highest-Salary.md) | Medium | CTE, Subquery, DENSE_RANK |
-| 178 | [Rank Scores](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/178-Rank-Scores.md) | Medium | DENSE_RANK |
-| 180 | [Consecutive Numbers](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/180-Consecutive-Numbers.md) | Medium | LAG, LEAD |
+| 176 | [Second Highest Salary](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/176-Second-Highest-Salary.md) | Medium | CTE, Subquery, DENSE_RANK, Window Function |
+| 178 | [Rank Scores](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/178-Rank-Scores.md) | Medium | DENSE_RANK, Window Function |
+| 180 | [Consecutive Numbers](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/180-Consecutive-Numbers.md) | Medium | LAG, LEAD, Window Function |
 | 181 | [Employees Earning More Than Their Managers](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/181-Employees-Earning-More-Than-Their-Managers.md) | Easy | JOIN |
 | 183 | [Customers Who Never Order](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/183-Customers-Who-Never-Order.md) | Easy | JOIN, Subquery |
-| 184 | [Department Highest Salary](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/184-Department-Highest-Salary.md) | Medium | CTE, DENSE_RANK |
-| 185 | [Department Top Three Salaries](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/185-Department-Top-Three-Salaries.md) | Hard | CTE, DENSE_RANK |
+| 184 | [Department Highest Salary](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/184-Department-Highest-Salary.md) | Medium | CTE, DENSE_RANK, Window Function |
+| 185 | [Department Top Three Salaries](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/185-Department-Top-Three-Salaries.md) | Hard | CTE, DENSE_RANK, Window Function |
 | 577 | [Employee Bonus](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/577-Employee-Bonus.md) | Easy | JOIN |
 | 584 | [Find Customer Referee](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/584-Find-Customer-Referee.md) | Easy | WHERE, IS NULL |
 | 585 | [Investments in 2016](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/585-Investments-In-2016.md) | Medium | Window Function, Subquery |
+| 586 | [Customer Placing the Largest Number of Orders](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/586-Customer-Placing-The-Largest-Number-Of-Orders.md) | Easy | DENSE_RANK, Window Function |
 | 595 | [Big Countries](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/595-Big-Countries.md)  | Easy | WHERE |
 | 1148 | [Article Views I](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1148-Article-Views-I.md) | Easy | SELECT DISTINCT, ORDER BY |
 | 1173 | [Immediate Food Delivery I](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1173-Immediate-Food-Delivery-I.md) | Easy | CASE WHEN, SUM |
