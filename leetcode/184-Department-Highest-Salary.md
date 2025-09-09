@@ -1,4 +1,4 @@
-# [184. Department Highest Salary]
+# [184. Department Highest Salary](https://leetcode.com/problems/department-highest-salary/description/)
 
 * [SQL Solution](https://leetcode.com/problems/department-highest-salary/solutions/7170798/using-ctes-and-dense_rank-by-atamalu123-xokg/)
 * [Python Solution](https://leetcode.com/problems/department-highest-salary/solutions/7170989/merge-by-atamalu123-i37b/)
