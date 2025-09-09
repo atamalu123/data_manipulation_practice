@@ -1,6 +1,6 @@
 # Data Manipulation
 
-Practicing transforming data in SQL and Python. 31 questions.
+Practicing transforming data in SQL and Python. 32 questions.
 
 # Leetcode Problems
 
