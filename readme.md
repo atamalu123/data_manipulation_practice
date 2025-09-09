@@ -1,6 +1,6 @@
 # Data Manipulation
 
-Practicing transforming data in SQL and Python. 42 questions.
+Practicing transforming data in SQL and Python. 43 questions.
 
 # Leetcode Problems
 
@@ -45,6 +45,7 @@ Practicing transforming data in SQL and Python. 42 questions.
 | 1795 | [Rearrange Products Table](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1795-Rearrange-Products-Table.md) | Easy | UNION |
 | 1873 | [Calculate Special Bonus](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1873-Calculate-Special-Bonus.md) | Easy | MOD, CASE WHEN |
 | 1907 | [Count Salary Categories](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1907-Count-Salary-Categories.md) | Medium | UNION, CASE WHEN |
+| 1965 | [Employees With Missing Information](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1965-Employees-With-Missing-Information.md) | Easy | UNION |
 | 2072 | [The Winner University](https://leetcode.com/problems/the-winner-university/solutions/7167016/case-when-and-ctes-by-atamalu123-re3k/) | Easy | CTE, CASE WHEN |
 | 2082 | [The Number of Rich Customers](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/2082-The-Number-of-Rich-Customers.md) | Easy | COUNT DISTINCT, WHERE |
 | 2738 | [Count Occurrences in Text](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/2738-Count-Occurrences-in-Text.md) | Medium | LIKE, UNION |
