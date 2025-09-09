@@ -24,6 +24,7 @@ Practicing transforming data in SQL and Python.
 | 1045 | [Customers Who Bought All Products](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1045-Customers-Who-Bought-All-Products.md) | Medium | CTE, Subquery, HAVING |
 | 1070 | [Product Sales Analysis III](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1070-Product-Sales-Analysis-III.md) | Medium | CTE, JOIN |
 | 1075 | [Project Employees I](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1075-Project-Employees-I.md) | Easy | JOIN, GROUP BY |
+| 1107 | [New Users Daily Count](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1107-New-Users-Daily-Count.md) | Medium | CTE, ROW_NUMBER, Window Function |
 | 1148 | [Article Views I](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1148-Article-Views-I.md) | Easy | SELECT DISTINCT, ORDER BY |
 | 1173 | [Immediate Food Delivery I](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1173-Immediate-Food-Delivery-I.md) | Easy | CASE WHEN, SUM |
 | 1517 | [Find Users With Valid Emails](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1517-Find-Users-With-Valid-Emails.md) | Easy | REGEX |
