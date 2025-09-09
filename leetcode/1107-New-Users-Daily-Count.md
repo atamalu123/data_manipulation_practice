@@ -1,4 +1,4 @@
-# [1107 New Users Daily Count](https://leetcode.com/problems/new-users-daily-count/)
+# [1107. New Users Daily Count](https://leetcode.com/problems/new-users-daily-count/)
 
 * [SQL Solution](https://leetcode.com/problems/new-users-daily-count/solutions/7173349/cte-and-row_number-by-atamalu123-sc1d/)
 * [Python Solution](https://leetcode.com/problems/new-users-daily-count/solutions/7173385/pandas-solution-by-atamalu123-9zyp/)
