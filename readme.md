@@ -33,6 +33,7 @@ Practicing transforming data in SQL and Python. 36 questions.
 | 1327 | [List the Products Ordered in a Period](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1327-List-The-Products-Ordered-In-A-Period.md) | Easy | HAVING, EXTRACT |
 | 1378 | [Replace Employee ID With the Unique Identifier](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1378-Replace-Employee-Id-With-The-Unique-Identifier.md) | Easy | JOIN |
 | 1393 | [Capital Gain/Loss](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1393-Capital-Gain-Loss.md) | Medium | CASE WHEN |
+| 1407 | [Top Travellers](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1407-Top-Travellers.md) | Easy | JOIN, GROUP BY |
 | 1517 | [Find Users With Valid Emails](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1517-Find-Users-With-Valid-Emails.md) | Easy | REGEX |
 | 1527 | [Patients With a Condition](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1527-Patients-With-a-Condition.md) | Easy | REGEX, LIKE |
 | 1667 | [Fix Names in a Table](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1667-Fix-Names-in-a-Table.md) | Easy | SUBSTR, SUBSTRING |
