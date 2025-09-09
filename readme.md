@@ -1,6 +1,6 @@
 # Data Manipulation
 
-Practicing transforming data in SQL and Python. 43 questions.
+Practicing transforming data in SQL and Python. 44 questions.
 
 # Leetcode Problems
 
@@ -49,7 +49,7 @@ Practicing transforming data in SQL and Python. 43 questions.
 | 2072 | [The Winner University](https://leetcode.com/problems/the-winner-university/solutions/7167016/case-when-and-ctes-by-atamalu123-re3k/) | Easy | CTE, CASE WHEN |
 | 2082 | [The Number of Rich Customers](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/2082-The-Number-of-Rich-Customers.md) | Easy | COUNT DISTINCT, WHERE |
 | 2738 | [Count Occurrences in Text](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/2738-Count-Occurrences-in-Text.md) | Medium | LIKE, UNION |
-
+| 3521 | [Find Product Recommendation Pairs](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/3521-Find-Product-Recommendation-Pairs.md) | Medium | JOIN |
 
 
 
