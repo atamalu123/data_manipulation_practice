@@ -1,6 +1,6 @@
 # Data Manipulation
 
-Practicing transforming data in SQL and Python. 40 questions.
+Practicing transforming data in SQL and Python. 41 questions.
 
 # Leetcode Problems
 
@@ -40,6 +40,7 @@ Practicing transforming data in SQL and Python. 40 questions.
 | 1683 | [Invalid Tweets](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1683-Invalid-Tweets.md) | Easy | WHERE |
 | 1693 | [Daily Leads and Partners](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1693-Daily-Leads-And-Partners.md) | Easy | COUNT DISTINCT, GROUP BY |
 | 1729 | [Find Followers Count](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1729-Find-Followers-Count.md) | Easy | COUNT DISTINCT, ORDER BY |
+| 1741 | [Find Total Time Spent by Each Employee](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1741-Find-Total-Time-Spent-By-Each-Employee.md) | Easy | GROUP BY |
 | 1757 | [Recyclable and Low Fat Products](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1757-Recyclable-and-Low-Fat-Products.md)  | Easy | WHERE |
 | 1873 | [Calculate Special Bonus](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1873-Calculate-Special-Bonus.md) | Easy | MOD, CASE WHEN |
 | 1907 | [Count Salary Categories](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1907-Count-Salary-Categories.md) | Medium | UNION, CASE WHEN |
