@@ -15,6 +15,7 @@ Practicing transforming data in SQL and Python.
 | 184 | [Department Highest Salary](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/184-Department-Highest-Salary.md) | Medium | CTE, DENSE_RANK |
 | 185 | [Department Top Three Salaries](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/185-Department-Top-Three-Salaries.md) | Hard | CTE, DENSE_RANK |
 | 577 | [Employee Bonus](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/577-Employee-Bonus.md) | Easy | JOIN |
+| 584 | [Find Customer Referee](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/584-Find-Customer-Referee.md) | Easy | WHERE, IS NULL |
 | 595 | [Big Countries](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/595-Big-Countries.md)  | Easy | WHERE |
 | 1148 | [Article Views I](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1148-Article-Views-I.md) | Easy | SELECT DISTINCT, ORDER BY |
 | 1173 | [Immediate Food Delivery I](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1173-Immediate-Food-Delivery-I.md) | Easy | CASE WHEN, SUM |
