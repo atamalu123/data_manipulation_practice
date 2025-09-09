@@ -1,6 +1,6 @@
 # Data Manipulation
 
-Practicing transforming data in SQL and Python. 32 questions.
+Practicing transforming data in SQL and Python. 33 questions.
 
 # Leetcode Problems
 
@@ -28,6 +28,7 @@ Practicing transforming data in SQL and Python. 32 questions.
 | 1148 | [Article Views I](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1148-Article-Views-I.md) | Easy | SELECT DISTINCT, ORDER BY |
 | 1158 | [Market Analysis I](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1158-Market-Analysis-I.md) | Medium | JOIN, EXTRACT |
 | 1173 | [Immediate Food Delivery I](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1173-Immediate-Food-Delivery-I.md) | Easy | CASE WHEN, SUM |
+| 1193 | [Monthly Transactions I](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1193-Monthly-Transactions-I.md) | Medium | CASE WHEN, GROUP BY |
 | 1517 | [Find Users With Valid Emails](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1517-Find-Users-With-Valid-Emails.md) | Easy | REGEX |
 | 1527 | [Patients With a Condition](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1527-Patients-With-a-Condition.md) | Easy | REGEX, LIKE |
 | 1667 | [Fix Names in a Table](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1667-Fix-Names-in-a-Table.md) | Easy | SUBSTR, SUBSTRING |
