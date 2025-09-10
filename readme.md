@@ -46,11 +46,11 @@ Practicing transforming data in SQL and Python. 46 questions.
 | 1873 | [Calculate Special Bonus](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1873-Calculate-Special-Bonus.md) | Easy | MOD, CASE WHEN |
 | 1907 | [Count Salary Categories](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1907-Count-Salary-Categories.md) | Medium | UNION, CASE WHEN |
 | 1965 | [Employees With Missing Information](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/1965-Employees-With-Missing-Information.md) | Easy | UNION |
-| 2072 | [The Winner University](https://leetcode.com/problems/the-winner-university/solutions/7167016/case-when-and-ctes-by-atamalu123-re3k/) | Easy | CTE, CASE WHEN |
 | 2082 | [The Number of Rich Customers](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/2082-The-Number-of-Rich-Customers.md) | Easy | COUNT DISTINCT, WHERE |
 | 2738 | [Count Occurrences in Text](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/2738-Count-Occurrences-in-Text.md) | Medium | LIKE, UNION |
 | 3521 | [Find Product Recommendation Pairs](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/3521-Find-Product-Recommendation-Pairs.md) | Medium | JOIN |
 | 3554 | [Find Category Recommendation Pairs](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/3554-Find-Category-Recommendation-Pairs.md) | Hard | CTE |
 | 3564 | [Seasonal Sales Analysis](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/3564-Seasonal-Sales-Analysis.md) | Medium | CTE, CASE WHEN |
+| 3570 | [Find Books with No Available Copies](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/3570-Find-Books-With-No-Available-Copies.md) | Easy | Subquery, COUNT |
 
 
