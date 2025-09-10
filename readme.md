@@ -1,6 +1,6 @@
 # Data Manipulation
 
-Practicing transforming data in SQL and Python. 44 questions.
+Practicing transforming data in SQL and Python. 45 questions.
 
 # Leetcode Problems
 
@@ -50,6 +50,6 @@ Practicing transforming data in SQL and Python. 44 questions.
 | 2082 | [The Number of Rich Customers](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/2082-The-Number-of-Rich-Customers.md) | Easy | COUNT DISTINCT, WHERE |
 | 2738 | [Count Occurrences in Text](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/2738-Count-Occurrences-in-Text.md) | Medium | LIKE, UNION |
 | 3521 | [Find Product Recommendation Pairs](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/3521-Find-Product-Recommendation-Pairs.md) | Medium | JOIN |
-
+| 3554 | [Find Category Recommendation Pairs](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/3554-Find-Category-Recommendation-Pairs.md) | Hard | CTE |
 
 
