@@ -1,6 +1,6 @@
 # Data Manipulation
 
-Practicing transforming data in SQL and Python. 49 questions.
+Practicing transforming data in SQL and Python. 50 questions.
 
 # Leetcode Problems
 
@@ -55,5 +55,5 @@ Practicing transforming data in SQL and Python. 49 questions.
 | 3580 | [Find Consistently Improving Employees](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/3580-Find-Consistently-Improving-Employees.md) | Medium | LAG, DENSE_RANK, CTE |
 | 3586 | [Find COVID Recovery Patients](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/3586-Find-Covid-Recovery-Patients.md) | Medium | SELF JOIN, DATEDIFF |
 | 3601 | [Find Drivers with Improved Fuel Efficiency](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/3601-Find-Drivers-With-Improved-Fuel-Efficiency.md) | Medium | CTE |
-
+| 3642 | [Find Books with Polarized Opinions](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/3642-Find-Books-With-Polarized-Opinions.md) | Medium | CTE, HAVING |
 
