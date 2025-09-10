@@ -1,6 +1,6 @@
 # Data Manipulation
 
-Practicing transforming data in SQL and Python. 46 questions.
+Practicing transforming data in SQL and Python. 47 questions.
 
 # Leetcode Problems
 
@@ -52,5 +52,6 @@ Practicing transforming data in SQL and Python. 46 questions.
 | 3554 | [Find Category Recommendation Pairs](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/3554-Find-Category-Recommendation-Pairs.md) | Hard | CTE |
 | 3564 | [Seasonal Sales Analysis](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/3564-Seasonal-Sales-Analysis.md) | Medium | CTE, CASE WHEN |
 | 3570 | [Find Books with No Available Copies](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/3570-Find-Books-With-No-Available-Copies.md) | Easy | Subquery, COUNT |
+| 3580 | [Find Consistently Improving Employees](https://github.com/atamalu123/data_manipulation_practice/blob/main/leetcode/3580-Find-Consistently-Improving-Employees.md) | LAG, DENSE_RANK, CTE |
 
 
