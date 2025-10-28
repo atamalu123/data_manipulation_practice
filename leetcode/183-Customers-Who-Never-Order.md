@@ -52,6 +52,8 @@ r.orders = orders
 
 ## Python
 
+[Also found here](https://leetcode.com/problems/customers-who-never-order/solutions/7306701/1-liner-in-pandas-by-atamalu123-6mo3/)
+
 ``` python
 def find_customers(customers: pd.DataFrame, orders: pd.DataFrame) -> pd.DataFrame:
     
